@@ -1,0 +1,32 @@
+{
+  "name": "morgan-hivebe-website",
+  "version": "1.0.0",
+  "description": "Morgan's HiveBE website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-rn:cdegranville/morgan-hivebe-website.git"
+  },
+  "keywords": [
+    "Morgan",
+    "HiveBE"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-connect": "^5.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-shell": "^0.6.1",
+    "gulp-uglify": "^2.0.1",
+    "jshint": "^2.9.4",
+    "run-sequence": "^1.2.2"
+  }
+}

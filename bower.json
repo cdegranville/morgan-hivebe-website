@@ -1,0 +1,26 @@
+{
+  "name": "morgan-hivebe-website",
+  "description": "Morgan's HiveBE website",
+  "main": "index.js",
+  "license": "ISC",
+  "keywords": [
+    "Morgan",
+    "HiveBE"
+  ],
+  "homepage": "http://morganhivebe.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "animate.css": "^3.5.2",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}

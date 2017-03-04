@@ -97,3 +97,5 @@ gulp.task('dserver', function () {
 
 // default task
 gulp.task('default', ['lint', 'server']);
+
+// aws s3 sync dist s3://morganhivebe.com --delete
